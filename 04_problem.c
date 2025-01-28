@@ -1,3 +1,5 @@
+// Write a C program to using null character 
+
 #include <stdio.h>
 
 int main() {

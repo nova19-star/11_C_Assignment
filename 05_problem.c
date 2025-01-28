@@ -1,3 +1,5 @@
+// Write a C program to copy a string using a in built function 
+
 #include <stdio.h>
 #include <string.h>
 
